@@ -23,6 +23,6 @@ The app will open up at `localhost:3000`.
 This project shows how to access data with Prisma in two
 ways: in the `getServerSideProps` function and from an API route.
 
-## Access from `getServerSideProps`- // pages/index.ts
+Access from `getServerSideProps`- // pages/index.ts
 
-## Access from an API Route- // pages/api/contacts.ts
+Access from an API Route- // pages/api/contacts.ts
